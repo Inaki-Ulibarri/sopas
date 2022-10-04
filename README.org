@@ -1,0 +1,13 @@
+#+TITLE: Sopas, a puzzle word solver
+
+  Sopas is an extremely simple puzzle word solver with little if any usability
+and no options to talk about that I made because of my sheer hatred and spite 
+towards word puzzles.
+
+** FAQ
+
+   + Why did you make it in C?
+     - Yes
+   + Will you ever make this shit better
+     - Most probably no
+
